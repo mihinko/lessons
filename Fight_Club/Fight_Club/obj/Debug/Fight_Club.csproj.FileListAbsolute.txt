@@ -1,0 +1,12 @@
+C:\Users\Виталий\source\repos\Fight_Club\Fight_Club\bin\Debug\Fight_Club.exe.config
+C:\Users\Виталий\source\repos\Fight_Club\Fight_Club\bin\Debug\Fight_Club.exe
+C:\Users\Виталий\source\repos\Fight_Club\Fight_Club\bin\Debug\Fight_Club.pdb
+C:\Users\Виталий\source\repos\Fight_Club\Fight_Club\obj\Debug\Fight_Club.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\source\repos\Fight_Club\Fight_Club\obj\Debug\Fight_Club.Form1.resources
+C:\Users\Виталий\source\repos\Fight_Club\Fight_Club\obj\Debug\Fight_Club.Properties.Resources.resources
+C:\Users\Виталий\source\repos\Fight_Club\Fight_Club\obj\Debug\Fight_Club.csproj.GenerateResource.cache
+C:\Users\Виталий\source\repos\Fight_Club\Fight_Club\obj\Debug\Fight_Club.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\Fight_Club\Fight_Club\obj\Debug\Fight_Club.exe
+C:\Users\Виталий\source\repos\Fight_Club\Fight_Club\obj\Debug\Fight_Club.pdb
+C:\Users\Виталий\source\repos\Fight_Club\Fight_Club\obj\Debug\Fight_Club.Form2.resources
+C:\Users\Виталий\source\repos\Fight_Club\Fight_Club\obj\Debug\Fight_Club.Form3.resources
